@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Streaks](https://YOUR_DOMAIN/api/streaks/svg?username=TusharSoni014)
+
 <!--
 **epiczmusicyt-tech/epiczmusicyt-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
