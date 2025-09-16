@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Streaks](http://localhost:3000/api/streaks/svg?username=TusharSoni014)
+![GitHub Streaks](https://chronogit.vercel.app/api/streaks/svg?username=TusharSoni014)
 
 <!--
 **epiczmusicyt-tech/epiczmusicyt-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
